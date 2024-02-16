@@ -2,5 +2,5 @@
 
 All solutions pass MOOC.fi's provided tests. 
 
-This is my src code in mooc activities hope it works....
+This is my src code in mooc activities hope it helps....
 
